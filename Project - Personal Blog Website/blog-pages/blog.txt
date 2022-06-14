@@ -1,0 +1,7 @@
+<article>
+                <h2>Sample Blog Post</h2>
+                <p>Date of blog by <a href="#">Author</a></p>
+                <p>Blog text</p>
+                <h3>Sub-heading</h3>
+                <p>more text</p>
+            </article>

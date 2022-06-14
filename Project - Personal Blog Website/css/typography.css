@@ -1,36 +1,36 @@
 h1 {
-    font-size: 96pt;
+    font-size: 4.6rem;
 }
 
 h2 {
-    font-size: 60pt;
+    font-size: 3.6rem;
 }
 
 h3 {
-    font-size: 60pt;
+    font-size: 2.8rem;
 }
 
 h4 {
-    font-size: 34pt;
+    font-size: 2.2rem;
 }
 
 h5 {
-    font-size: 24pt;
+    font-size: 1.8rem;
 }
 
 h6 {
-    font-size: 20pt;
+    font-size: 1.6rem;
 }
 
 caption {
-    font-size: 12pt;
+    font-size: 0.8rempt;
 }
 
 button {
-    font-size: 14pt;
+    font-size: 0.9rem;
     text-transform: uppercase;
 }
 
 .subtitle {
-    font-size: 16pt;
+    font-size: 1rem;
 }
