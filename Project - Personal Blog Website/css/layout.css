@@ -1,0 +1,12 @@
+
+/* Rules for small screens*/
+
+/* Rules for Medium Screens */
+@media (min-width: 600px) and (max-width: 900px) {
+
+}
+
+/* Rules for large screens*/
+@media (min-width:901px) {
+    
+}

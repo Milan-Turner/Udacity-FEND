@@ -1,0 +1,36 @@
+h1 {
+    font-size: 96pt;
+}
+
+h2 {
+    font-size: 60pt;
+}
+
+h3 {
+    font-size: 60pt;
+}
+
+h4 {
+    font-size: 34pt;
+}
+
+h5 {
+    font-size: 24pt;
+}
+
+h6 {
+    font-size: 20pt;
+}
+
+caption {
+    font-size: 12pt;
+}
+
+button {
+    font-size: 14pt;
+    text-transform: uppercase;
+}
+
+.subtitle {
+    font-size: 16pt;
+}
