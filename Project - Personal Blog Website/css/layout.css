@@ -31,15 +31,44 @@ body {
     }
 
 #blog-entries {
-    display: flex;
+    display: block;
+}
+
+#page-content {
+    display: block;
+
+}
+
+article {
+    width: 100%;
+}
+
+aside {
+    width: 100%;
 }
 
 /* Rules for Medium Screens */
+@media (min-width: 600px) {
+    #page-content {
+        display: flex;
+    }
+}
 @media (min-width: 600px) and (max-width: 900px) {
 
+    article {
+        width:66%;
+    }
+    aside {
+        width:33%;
+    }
 }
 
 /* Rules for large screens*/
 @media (min-width:901px) {
-    
+    article {
+        width:75%;
+    }
+    aside {
+        width:25%;
+    }
 }

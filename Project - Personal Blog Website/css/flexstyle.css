@@ -25,4 +25,12 @@
     display:flex;
     border:10px solid mistyrose;
     align-items:flex-start;
+    flex-direction: column;
+  }
+
+  @media (min-width:600px) {
+    .flexContainer {
+      flex-direction: row;
+    }
+    
   }

@@ -1,0 +1,16 @@
+.authorCard {
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+  }
+  
+  .authorCard:hover {
+    box-shadow: 0 8px 18px 0 rgba(0,0,0,0.2);
+  }
+  
+  .authorContainer {
+    padding: 2px 18px;
+  }
+
+  .authorAvi {
+    width: 100%;
+  }
